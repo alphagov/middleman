@@ -1,5 +1,11 @@
 # master
 
+# 4.4.4a
+
+Unofficial version from alphagov
+
+- You can now use dates in YAML config/frontmatter with Ruby 3.1
+
 # 4.4.3
 
 - Lock haml to < 6.0 (#2570)

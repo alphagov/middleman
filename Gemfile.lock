@@ -1,13 +1,13 @@
 PATH
   remote: middleman-cli
   specs:
-    middleman-cli (4.4.3)
+    middleman-cli (4.4.4a)
       thor (>= 0.17.0, < 2.0)
 
 PATH
   remote: middleman-core
   specs:
-    middleman-core (4.4.3)
+    middleman-core (4.4.4a)
       activesupport (>= 6.1, < 7.1)
       addressable (~> 2.4)
       backports (~> 3.6)
